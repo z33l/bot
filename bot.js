@@ -1,6 +1,6 @@
 var config = {
   channels: ['#zeelbot'],
-  server: 'irc.freenode.net',
+  server: '0.0.0.0',
   botName: 'zeelbot'
 }
 
