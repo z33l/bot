@@ -1,0 +1,10 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "le irc bot",
+  "main": "bot.js",
+  "license": "WTFPL",
+  "dependencies": {
+    "irc": "^0.3.7"
+  }
+}
